@@ -1,5 +1,6 @@
 body {
     background-color: cadetblue;
+    font-size: 22px;
 }
 
 .images{
@@ -23,9 +24,23 @@ body {
 }
 
 .sourcesButton {
-    width: 165px;
+    width: 160px;
     height: 60px;
     display: inline-block;
     margin: auto;
 /*    padding-left: 700px;*/
 }
+
+.sourcesPage {
+    font-size: 36px;
+    background-color: black;
+    text-decoration-color: crimson;
+
+}
+    
+    
+    
+    
+    
+    
+    
