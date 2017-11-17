@@ -2,6 +2,10 @@ body {
     background-color: cadetblue;
 }
 
+.images{
+    text-align: center;
+}
+
 .title {
     width: 400px;
     height: 400px;
@@ -13,6 +17,15 @@ body {
 .playButton {
     width: 160px;
     height: 60px;
-    display: block;
-    padding-left: 620px;
+    display: inline-block;
+    margin: auto;
+/*    padding-left: 500px;*/
+}
+
+.sourcesButton {
+    width: 165px;
+    height: 60px;
+    display: inline-block;
+    margin: auto;
+/*    padding-left: 700px;*/
 }
