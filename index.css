@@ -2,6 +2,10 @@ body {
     background-color: cadetblue;
 }
 
+.images{
+    text-align: center;
+}
+
 .title {
     width: 400px;
     height: 400px;
@@ -13,6 +17,96 @@ body {
 .playButton {
     width: 160px;
     height: 60px;
-    display: block;
+    display: inline-block;
     margin: auto;
+/*    padding-left: 500px;*/
+}
+
+.sourcesButton {
+    width: 165px;
+    height: 60px;
+    display: inline-block;
+    margin: auto;
+/*    padding-left: 700px;*/
+}
+
+#menu {
+    text-align: center;
+    margin: auto;
+}
+
+.smallpox {
+    width: 160px;
+    height: 50px;
+    padding-right: 10px;
+}
+
+.leprosy {
+    width: 160px;
+    height: 50px;
+    padding-right: 10px;
+}
+
+.diabetes {
+    width: 160px;
+    height: 50px;
+}
+
+.asthma {
+    width: 160px;
+    height: 50px;
+}
+
+.autism {
+    width: 160px;
+    height: 50px;
+}
+
+.cancer {
+    width: 160px;
+    height: 50px;
+}
+
+.cysticfibrosis {
+    width: 160px;
+    height: 50px;
+}
+
+.elephantiasis {
+    width: 160px;
+    height: 50px;
+}
+
+.flu {
+    width: 160px;
+    height: 50px;
+}
+
+.prosopagnosia {
+    width: 160px;
+    height: 50px;
+}
+
+.necrotizingfaciitis {
+    width: 160px;
+    height: 50px;
+}
+
+.phossyjaw {
+    width: 160px;
+    height: 50px;
+}
+
+.diabetes {
+    width: 160px;
+    height: 50px;
+}
+
+.tryAgain {
+    width: 160px;
+    height: 45px;
+}
+
+.verdana {
+    font-family: "Verdana", Times, sans-serif;
 }
