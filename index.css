@@ -68,12 +68,12 @@ body {
 }
 
 .cysticfibrosis {
-    width: 160px;
+    width: 220px;
     height: 50px;
 }
 
 .elephantiasis {
-    width: 160px;
+    width: 220px;
     height: 50px;
 }
 
@@ -83,17 +83,22 @@ body {
 }
 
 .prosopagnosia {
-    width: 160px;
+    width: 220px;
     height: 50px;
 }
 
 .necrotizingfaciitis {
-    width: 160px;
+    width: 320px;
     height: 50px;
 }
 
 .phossyjaw {
-    width: 160px;
+    width: 180px;
+    height: 50px;
+}
+
+.obesity {
+    width: 150px;
     height: 50px;
 }
 
