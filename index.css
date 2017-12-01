@@ -12,7 +12,7 @@ body {
     height: 400px;
     display: block;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .playButton {
@@ -33,6 +33,18 @@ body {
 #menu {
     text-align: center;
     margin: auto;
+}
+
+.disclaimer {
+    margin: auto;
+    font-size: 17px;
+    padding-top: 0.1px;
+    padding-left: 14px;
+    padding-right: 3px;
+    background-color: #436f70;
+    width: 320px;
+    opacity: 0.7;
+    border-bottom: #F55255 5px solid;
 }
 
 .box {
